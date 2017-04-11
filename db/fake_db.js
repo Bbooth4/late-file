@@ -1,7 +1,4 @@
 
-
-
-
 var poll =
        { sLFxN1:
           { poll_id: 'sLFxN1',
